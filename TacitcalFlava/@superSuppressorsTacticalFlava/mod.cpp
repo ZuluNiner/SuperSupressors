@@ -1,0 +1,10 @@
+name = "SuperSuppresorsTacticalFlava";
+picture = "superSuppressorsTacticalFlava/gui/Z9_Community_Modding.edds";
+logo = "superSuppressorsTacticalFlava/gui/Z9_Community_Modding.edds";
+logoSmall = "superSuppressorsTacticalFlava/gui/Z9_Community_Modding.edds";
+logoOver = "superSuppressorsTacticalFlava/gui/Z9_Community_Modding.edds";
+tooltip = "Working Dryer";
+overview = "A basic adjustment to suppressors";
+action = "";
+author = "ZuluNiner (Z9)";
+authorID = "";

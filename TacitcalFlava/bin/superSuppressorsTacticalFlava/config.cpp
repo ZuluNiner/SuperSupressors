@@ -1,10 +1,10 @@
 class CfgPatches
 {
-	class SuperSuppressors
+	class SuperSuppressorsTacticalFlava
 	{
-		units[] = {"Z9_Suppressor_Test"};
+		units[] = {};
 		weapons[] = {};
-		name = "Super Suppressors";
+		name = "Super Suppressors Tactical Flava";
 		author = "Z9";
 		requiredVersion = 0.1;
 		requiredAddons[] = {"DZ_Data","DZ_Weapons_Muzzles"};
@@ -12,11 +12,11 @@ class CfgPatches
 };
 class CfgMods
 {
-	class SuperSuppressors
+	class SuperSuppressorsTacticalFlava
 	{
 		type = "mod";
-		dir = "superSuppressors";
-		name = "Super Suppressors";
+		dir = "superSuppressorsTacticalFlava";
+		name = "Tactical Flava Super Suppressors";
 		author = "Z9";
 		dependencies[] = {};
 	};

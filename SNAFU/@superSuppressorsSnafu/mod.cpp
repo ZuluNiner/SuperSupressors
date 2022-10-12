@@ -1,0 +1,10 @@
+name = "SuperSuppresorsSnafu";
+picture = "superSuppressorsSnafu/gui/Z9_Community_Modding.edds";
+logo = "superSuppressorsSnafu/gui/Z9_Community_Modding.edds";
+logoSmall = "superSuppressorsSnafu/gui/Z9_Community_Modding.edds";
+logoOver = "superSuppressorsSnafu/gui/Z9_Community_Modding.edds";
+tooltip = "Working Dryer";
+overview = "A basic adjustment to suppressors";
+action = "";
+author = "ZuluNiner (Z9)";
+authorID = "";
